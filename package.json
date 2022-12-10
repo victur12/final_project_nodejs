@@ -1,0 +1,33 @@
+{
+  "name": "project_final_nodejs",
+  "version": "1.0.0",
+  "description": "This is the final project of node js workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victur12/final_project_nodejs.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "api",
+    "rest",
+    "jwt",
+    "morgan",
+    "express",
+    "workshop",
+    "project"
+  ],
+  "author": "Victor Hugo Gonzalez Diaz, Adriana Amezcua Alanis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victur12/final_project_nodejs/issues"
+  },
+  "homepage": "https://github.com/victur12/final_project_nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
