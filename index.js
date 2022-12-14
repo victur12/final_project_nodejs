@@ -17,8 +17,8 @@ app.use(express.urlencoded({ extended: true }));
 
 
 app.get("/", (req,res, next)=>{
-    res.status(200).json({code: 1, message: "Bienveniedo al pokedex"});
-    res.send("hola");
+    res.status(200).json({code: 1, message: "Bienvenido a la BD de Empleados"});
+    res.send("Hola");
 });
 
 app.use("/user", user);
